@@ -72,7 +72,14 @@ List of sites and resources used for this project.
 10. (2023). 22 March. Available at: https://youtu.be/ScRA9dkm4WY?si=zZZ8wxssZ3Q-UqVv (Accessed: 24 October 2023).
 11. (2023). 19 January. Available at: https://youtu.be/mCUfmanCpIQ?si=p4d6X95PWK72JI51 (Accessed: 25 October 2023).
 12. (2020). 16 June. Available at: https://youtu.be/cTqFNg_y9lw?si=ZxLsf-StDEneEyFO (Accessed: 25 October 2023).
-13. (2020). 22 June. Available at: https://youtu.be/jrRwPMIAT_M?si=ZHyiURYNOg0lIZrh (Accessed: 25 October 2023). 
+13. (2020). 22 June. Available at: https://youtu.be/jrRwPMIAT_M?si=ZHyiURYNOg0lIZrh (Accessed: 25 October 2023).
+14. (2022). 24 January. Available at: https://youtu.be/rIEd9KrS5NY?si=oHGJE8yivcs-U1N7 (Accessed: 26 October 2023).
+15. (No date). Available at: https://learn.microsoft.com/en-us/power-bi/fundamentals/fabric-get-started (Accessed: 26 October 2023).
+16. (2022). 2nd Watch. 22 November. Available at: https://www.2ndwatch.com/blog/high-level-overview-of-power-bi/ (Accessed: 26 October 2023).
+17. Suman (2023) What is power bi desktop - A guide to microsoft power BI desktop, Intellipaat Blog. Available at: https://intellipaat.com/blog/power-bi-desktop/ (Accessed: 26 October 2023).
+18. Suman (2023) What is Power Bi - architecture, features and components: Intellipaat, Intellipaat Blog. Available at: https://intellipaat.com/blog/what-is-power-bi/#no6 (Accessed: 26 October 2023).
+19. Compton, J. (2022) The Microsoft Power BI Guide for Businesses, Pragmatiq. Available at: https://www.pragmatiq.co.uk/the-microsoft-power-bi-guide-for-businesses/ (Accessed: 26 October 2023).
+20. (2020a). 17 November. Available at: https://youtu.be/2CXhHe4DU9Q?si=bAa1Hy7IO0pOrJrl (Accessed: 26 October 2023). 
 
 ## License
 
