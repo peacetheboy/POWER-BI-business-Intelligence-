@@ -55,6 +55,7 @@ To organize this project
 ![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/47316d88-6788-429c-a051-125098fbb91c)
 ![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/4c123d3e-73b7-4ef8-b2e5-b3f826cd46d7)
 ![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/64d8d54b-6334-4ccf-827c-c365995919b5)
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/677bb0cb-2869-4d0a-a420-73c0f9189b63)
 
 ## References
 
