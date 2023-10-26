@@ -25,6 +25,7 @@ To organize this project
 
 ## Process followed creating this project
 ![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/f61ac0e9-d6d4-42a2-a117-34f3c1b18e2c)
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/4c123d3e-73b7-4ef8-b2e5-b3f826cd46d7)
 
 ### To get started with this project, follow these steps:
 
