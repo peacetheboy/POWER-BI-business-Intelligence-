@@ -50,6 +50,11 @@ To organize this project
 4. navigate to the product monitoring page to monitor all the products available, you can filter this by category to check the number of products per category
 5. lastly, the customer monitoring page will show a table of all customers and their details such as order id, delivery address and phone numbers
 
+## Report Preview
+
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/47316d88-6788-429c-a051-125098fbb91c)
+
+
 ## References
 
 List of sites and resources used for this project.
