@@ -79,8 +79,13 @@ List of sites and resources used for this project.
 17. Suman (2023) What is power bi desktop - A guide to microsoft power BI desktop, Intellipaat Blog. Available at: https://intellipaat.com/blog/power-bi-desktop/ (Accessed: 26 October 2023).
 18. Suman (2023) What is Power Bi - architecture, features and components: Intellipaat, Intellipaat Blog. Available at: https://intellipaat.com/blog/what-is-power-bi/#no6 (Accessed: 26 October 2023).
 19. Compton, J. (2022) The Microsoft Power BI Guide for Businesses, Pragmatiq. Available at: https://www.pragmatiq.co.uk/the-microsoft-power-bi-guide-for-businesses/ (Accessed: 26 October 2023).
-20. (2020a). 17 November. Available at: https://youtu.be/2CXhHe4DU9Q?si=bAa1Hy7IO0pOrJrl (Accessed: 26 October 2023). 
-
+20. (2020). 17 November. Available at: https://youtu.be/2CXhHe4DU9Q?si=bAa1Hy7IO0pOrJrl (Accessed: 26 October 2023).
+21. Power bi (2022) YouTube. Available at: https://youtu.be/0c2Q365tdz8?si=QIhHr356HaDQRWPY (Accessed: 26 October 2023).
+22. Lesson 16 how to load rest API post call data into power BI Desktop. DO SUBSCRIBE...!!! (2021) YouTube. Available at: https://youtu.be/gIErefQv3Pk?si=ezgrHvVe5LaFYdvF (Accessed: 26 October 2023).
+23. (2023). 13 October. Available at: https://youtu.be/gv58fGGgRQs?si=Nh6wElbbWfznUncK (Accessed: 26 October 2023).
+24. (2023). 11 October. Available at: https://youtu.be/HrPipzMA5gk?si=tiY5iSARUiwlc7vG (Accessed: 26 October 2023).
+25. (2019). 7 May. Available at: https://youtu.be/4xapOrfLvbg?si=VXDOB2Bpqh2oubNC (Accessed: 26 October 2023).
+    
 ## License
 
 This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
