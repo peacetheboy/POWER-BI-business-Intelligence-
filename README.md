@@ -44,18 +44,26 @@ The project is organized into several features, stories, and tasks. Here's a sum
   - Document how to use the report in the README.md.
   - Create a reference list of sites and resources used for the project.
 
-## Getting Started
+## Process followed creating this project
 
 To get started with this project, follow these steps:
 
-1. Clone the GitHub repository.
-2. Install Power BI Desktop if you haven't already.
-3. Access the required data sources.
-4. Start building the Power BI report.
+1. create and clone the GitHub repository.
+2. Install Power BI Desktop and sign in with your organizational account to access everything.
+3. Get the excel Data provided.
+4. Clean the provided Data and check for any Typing error and remove null rows.
+5. Start building the Power BI report.
+6. Add pages, High Level Overview, Order Monitoring, Product monitoring and customer Monitoring
+7. Add filters for all pages
+8. Create live connection and publish
 
-## Usage
+## How to use this report?
 
-This section should explain how to use the Power BI report. Provide any specific instructions for stakeholders.
+1. To use this Power BI report, one must navigate to the high level overview to get the summary of the data collected
+2. On the high level metrics, make use of filters to view data
+3. Next, Navigate to the Order Monitoring page to see the detailed information about orders, number of customers and quantity available
+4. navigate to the product monitoring page to monitor all the products available, you can filter this by category to check the number of products per category
+5. lastly, the customer monitoring page will show a table of all customers and their details such as order id, delivery address and phone numbers
 
 ## References
 
@@ -86,14 +94,3 @@ List of sites and resources used for this project.
 24. (2023). 11 October. Available at: https://youtu.be/HrPipzMA5gk?si=tiY5iSARUiwlc7vG (Accessed: 26 October 2023).
 25. (2019). 7 May. Available at: https://youtu.be/4xapOrfLvbg?si=VXDOB2Bpqh2oubNC (Accessed: 26 October 2023).
     
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Acknowledge any individuals, organizations, or resources that contributed to this project.
-
----
-
-Feel free to adapt and expand this template to suit your project's specific needs. The README should serve as a comprehensive guide for anyone working on or using the report.
