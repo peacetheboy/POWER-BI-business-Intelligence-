@@ -1,61 +1,46 @@
 # EcoPower Logistics Report Project
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/6c73b0c2-2c12-46a0-be01-85d899bff806)
 
 ## Overview
 
 EcoPower Logistics comprehensive logistics solutions tackle the complexities of acquiring, storing, and transporting resources and goods globally. This project aims to create a Power BI report that enables stakeholders to monitor orders and product sales. The report is built using Power BI and is designed to provide a high-level view of crucial data for decision-making.
 
-## Prerequisites
+## Tasks
 
-Before you start working on this project, make sure you have completed the following prerequisites:
+To organize this project
 
-- Downloaded and installed Power BI Desktop.
-- Access to the online Power BI Service where you will be publishing your reports to a workspace (using your nwu account).
-- Retrieved the Excel file to be used as the data source from eFundi under Project 5 Resources folder.
-
-## Features and Tasks
-
-The project is organized into several features, stories, and tasks. Here's a summary of what needs to be done:
-
-- **GitHub Administration:**
-  - Create and Configure GitHub Repository
-    - Create a repository named 'CMPG 323 Project 5 - <add your student number>'
+-  **Project Progress**
+    - Create and Configure GitHub Repository
+    - Create a repository for the project
     - Create a README.md file to describe the project and report usage.
-  - Project Progress
     - Commit and push the report to source control.
     - Update the GitHub project iteratively to demonstrate progress.
 
 - **Project Setup:**
   - Create the Reporting Project
-    - Clone your GitHub repository.
+    - Clone your GitHub repository to your desktop.
     - Install Power BI Desktop.
     - Create a new Power BI Report named 'EcoPower Logistics – Order Monitoring'.
-
-- **Configure the Report:**
-  - Create various pages for different aspects of the report.
-
-- **Data Connection:**
-  - Configure secure connections to data sources.
-  - Clean and prepare datasets, ensuring data types and calculations are accurate.
-
-- **Report Development:**
-  - Create visualizations for high-level metrics, order monitoring, product monitoring, and implement filtering.
-
-- **Project Close-out:**
-  - Document how to use the report in the README.md.
-  - Create a reference list of sites and resources used for the project.
+   
 
 ## Process followed creating this project
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/f61ac0e9-d6d4-42a2-a117-34f3c1b18e2c)
 
-To get started with this project, follow these steps:
+### To get started with this project, follow these steps:
 
 1. create and clone the GitHub repository.
 2. Install Power BI Desktop and sign in with your organizational account to access everything.
 3. Get the excel Data provided.
-4. Clean the provided Data and check for any Typing error and remove null rows.
-5. Start building the Power BI report.
-6. Add pages, High Level Overview, Order Monitoring, Product monitoring and customer Monitoring
-7. Add filters for all pages
-8. Create live connection and publish
+4. Configure secure connections to data sources.
+5. Clean the provided Data and check for any Typing error and remove null rows.
+6. Create various pages for different aspects of the report.
+7. Start building the Power BI report.
+8. Add pages, High Level Overview, Order Monitoring, Product monitoring and customer Monitoring
+9. Create visualizations for high-level metrics, order monitoring, product monitoring, and implement filtering.
+10. Add filters for all pages
+11. Create live connection and publish
+12. Document how to use the report in the README.md.
+13. Create a reference list of sites and resources used for the project.
 
 ## How to use this report?
 
