@@ -1,4 +1,5 @@
 # EcoPower Logistics Report Project
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/6c73b0c2-2c12-46a0-be01-85d899bff806)
 
 ## Overview
 
