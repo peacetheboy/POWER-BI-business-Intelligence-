@@ -64,7 +64,15 @@ List of sites and resources used for this project.
 2. (2023). YouTube. 9 February. Available at: https://www.youtube.com/live/77jIzgvCIYY?si=vTOmcIK8Q5NVA6GI (Accessed: 20 October 2023).
 3. (2023). 24 October. Available at: https://youtu.be/8QSVnwcYzIo?si=PY8eL72cK7fKCaEy (Accessed: 20 October 2023).
 4. (2021). 18 September. Available at: https://youtu.be/0BKlUySopU4?si=X1l_xsdXszasYTfZ (Accessed: 22 October 2023).
-5. Power bi dev camp session 35 - power bi embedding best practices with the power bi javascript API (2023) YouTube. Available at: https://youtu.be/IlXl1-aiJEc?si=auRXYBSvgXY-Qa9- (Accessed: 22 October 2023). 
+5. Power bi dev camp session 35 - power bi embedding best practices with the power bi javascript API (2023) YouTube. Available at: https://youtu.be/IlXl1-aiJEc?si=auRXYBSvgXY-Qa9- (Accessed: 22 October 2023).
+6. (2022). 3 November. Available at: https://youtu.be/GpP0EbSMRpg?si=_f6VtcpXvMU0efko (Accessed: 22 October 2023).
+7. (2020). 2 November. Available at: https://youtu.be/Z2t7l8b1uWU?si=u3d_B6GSBYeDttMK (Accessed: 22 October 2023).
+8. (2022). 10 October. Available at: https://youtu.be/v6fP8gyCLLc?si=-Xi1i3mi1TCW_TYm (Accessed: 24 October 2023).
+9. (2023). 28 September. Available at: https://youtu.be/ZSrVOyKAC4Y?si=WdK90uRc3502QbrG (Accessed: 24 October 2023).
+10. (2023). 22 March. Available at: https://youtu.be/ScRA9dkm4WY?si=zZZ8wxssZ3Q-UqVv (Accessed: 24 October 2023).
+11. (2023). 19 January. Available at: https://youtu.be/mCUfmanCpIQ?si=p4d6X95PWK72JI51 (Accessed: 25 October 2023).
+12. (2020). 16 June. Available at: https://youtu.be/cTqFNg_y9lw?si=ZxLsf-StDEneEyFO (Accessed: 25 October 2023).
+13. (2020). 22 June. Available at: https://youtu.be/jrRwPMIAT_M?si=ZHyiURYNOg0lIZrh (Accessed: 25 October 2023). 
 
 ## License
 
