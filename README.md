@@ -60,6 +60,11 @@ This section should explain how to use the Power BI report. Provide any specific
 ## References
 
 List of sites and resources used for this project.
+1. (2023). 6 June. Available at: https://youtu.be/NNSHu0rkew8?si=G37hqWEKzHhfVyOw (Accessed: 20 October 2023).
+2. (2023). YouTube. 9 February. Available at: https://www.youtube.com/live/77jIzgvCIYY?si=vTOmcIK8Q5NVA6GI (Accessed: 20 October 2023).
+3. (2023). 24 October. Available at: https://youtu.be/8QSVnwcYzIo?si=PY8eL72cK7fKCaEy (Accessed: 20 October 2023).
+4. (2021). 18 September. Available at: https://youtu.be/0BKlUySopU4?si=X1l_xsdXszasYTfZ (Accessed: 22 October 2023).
+5. Power bi dev camp session 35 - power bi embedding best practices with the power bi javascript API (2023) YouTube. Available at: https://youtu.be/IlXl1-aiJEc?si=auRXYBSvgXY-Qa9- (Accessed: 22 October 2023). 
 
 ## License
 
