@@ -24,8 +24,9 @@ To organize this project
    
 
 ## Process followed creating this project
+![image](https://github.com/peacetheboy/CMPG-323-Project-5-36564567/assets/90477030/f61ac0e9-d6d4-42a2-a117-34f3c1b18e2c)
 
-To get started with this project, follow these steps:
+### To get started with this project, follow these steps:
 
 1. create and clone the GitHub repository.
 2. Install Power BI Desktop and sign in with your organizational account to access everything.
