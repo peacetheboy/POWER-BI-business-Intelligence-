@@ -12,15 +12,15 @@ To organize this project
 -  **Project Progress**
     - Create and Configure GitHub Repository
     - Create a repository for the project
-    - Create a README.md file to describe the project and report usage.
+    - Create a README.md file to describe the project and how to use the report.
     - Commit and push the report to source control.
     - Update the GitHub project iteratively to demonstrate progress.
 
 - **Project Setup:**
-  - Create the Reporting Project
-    - Clone your GitHub repository to your desktop.
-    - Install Power BI Desktop.
-    - Create a new Power BI Report named 'EcoPower Logistics – Order Monitoring'.
+ - Create the Reporting Project
+ - Clone your GitHub repository to your desktop.
+ - Install Power BI Desktop.
+ - Create a new Power BI Report named 'EcoPower Logistics – Order Monitoring'.
    
 
 ## Process followed creating this project
